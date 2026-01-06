@@ -1,6 +1,6 @@
 **My First GitHub Project**
 
-**Overview**
+## Overview
 This is my first GitHub project. I created it to learn how GitHub works, including repositories, commits, and version control.
 
 **What this project shows**
