@@ -1,2 +1,6 @@
-print("Hello, GitHub!")
-print("This is my first tracked Python file.")
+def main():
+    print("Hello, GitHub!")
+    print("This project helps me learn version control.")
+
+if __name__ == "__main__":
+    main()
