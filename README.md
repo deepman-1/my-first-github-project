@@ -1,20 +1,21 @@
-**My First GitHub Project**
+# My First GitHub Project
 
 ## Overview
 This is my first GitHub project. I created it to learn how GitHub works, including repositories, commits, and version control.
 
-**What this project shows**
+## What this project shows
 - I can create and manage a GitHub repository
 - I understand how commits track changes
-- I can add and edit files in a project
-- I can write and organise basic Python code
-- I can document a project using a README file
+- I can add, edit, and organise project files
+- I can write and improve basic Python code
+- I can document a project clearly using a README
 
-**Files in this project**
-- `hello.py` – A simple Python script
-- `README.md` – Project explanation
-- `.gitignore` – Git ignore rules
+## Project files
+- `hello.py` – A simple Python script with user input
+- `README.md` – Project documentation
+- `NOTES.md` – Learning notes and reflections
+- `.gitignore` – Git ignore rules for Python
 - `LICENSE` – MIT License
 
-**Why this project exists**
-This repository is part of my learning process and serves as a foundation for future projects.
+## Why this project exists
+This repository is part of my learning journey and serves as a foundation for future projects.
